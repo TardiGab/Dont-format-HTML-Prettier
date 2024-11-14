@@ -4,4 +4,4 @@ Juste télécharger le dossier (ou copier le code présent dans le fichier `sett
 
 ---
 
-Just download the folder (or copy the coode in the `settings.json` file) and put it in the project root.
+Just download the folder (or copy the code in the `settings.json` file) and put it in the project root.
